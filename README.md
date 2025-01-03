@@ -1,1 +1,0 @@
-Project for monte-carlo analysis of my sports analyst career
